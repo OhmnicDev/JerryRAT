@@ -1,0 +1,14 @@
+telebot
+pyTelegramBotAPI
+requests
+pyautogui
+opencv-python
+moviepy
+numpy
+av
+wmi
+psutil
+comtypes
+pycaw
+Pillow
+pygetwindow
