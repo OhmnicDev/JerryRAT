@@ -28,7 +28,7 @@
 *Plays an audio message on the PC sent by the user*
 - Reverse Shell (execute commands in CMD)
 - Glitch  
-*It triggers chaotic glitch effects on the screen and fake errors.*
+*It triggers chaotic glitch effects on the screen and fake errors*
 - Invert mouse buttons
 <img width="310" height="343" alt="image" src="https://github.com/user-attachments/assets/6e4d806e-1689-4cec-b587-bb7c43ff0dcd" />
 
