@@ -17,3 +17,14 @@ JerryRAT(Remote Access Tool) - Software for remote PC control via a Telegram cli
 - Mouse click
 - Enter text
 <img width="307" height="338" alt="image" src="https://github.com/user-attachments/assets/a7c4efaf-c3b1-4ccf-a096-261fbde95431" />
+
+### FUN
+- Open link in browser
+- Message/Allert to victim
+- BSOD (temporary system crash)
+- Play voice message
+- Reverse Shell (execute commands in CMD)
+- Glitch
+- Invert mouse buttons
+- <img width="308" height="339" alt="image" src="https://github.com/user-attachments/assets/81517774-6103-4f77-be41-5a23258ce3eb" />
+
