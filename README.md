@@ -26,7 +26,8 @@ JerryRAT(Remote Access Tool) - Software for remote PC control via a Telegram cli
 - Reverse Shell (execute commands in CMD)
 - Glitch
 - Invert mouse buttons
-<img width="308" height="339" alt="image" src="https://github.com/user-attachments/assets/81517774-6103-4f77-be41-5a23258ce3eb" />
+<img width="311" height="339" alt="image" src="https://github.com/user-attachments/assets/3cfaaf65-4230-444c-9be2-4a2ec4e9070f" />
+
 
 ### CD 
 - CD Active manager  
