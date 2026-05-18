@@ -128,7 +128,7 @@ functions4= [
     ("Power Off", 'PowerCall'),
     ("Reboot", 'RebootCall'),
     ("Screen Off", 'ScrOffCall'),
-    ("Change sound", 'ChngSoundCall'),
+    ("Change volume", 'ChngSoundCall'),
     ("Devices manager", 'MngDevicesCall'),
     ("Task killer", 'TskKllCall'), 
     ("Ask Root permissions", 'AskRoot')
