@@ -34,6 +34,10 @@
 - Upload & Play file  
 *Uploads the received file to the temporary storage and runs*
 <img width="306" height="149" alt="image" src="https://github.com/user-attachments/assets/ca8b7070-ac85-469d-9ed2-538e44c0f5f3" />
+<img width="193" height="340" alt="image" src="https://github.com/user-attachments/assets/da798b55-d174-481e-a7c4-82db42740f23" />
+<img width="348" height="109" alt="image" src="https://github.com/user-attachments/assets/d696d47e-c929-4e1f-951c-9aaf26e5670e" />
+
+
 
 ### System
 - Power Off
@@ -43,7 +47,7 @@
 - Devices manager
 - Task killer
 - Ask Root permissions
-- <img width="306" height="342" alt="image" src="https://github.com/user-attachments/assets/189bc860-4c12-4f8f-bedc-aaad8714735b" />
+<img width="306" height="342" alt="image" src="https://github.com/user-attachments/assets/189bc860-4c12-4f8f-bedc-aaad8714735b" />
 
 
 
