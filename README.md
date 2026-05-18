@@ -29,9 +29,9 @@ JerryRAT(Remote Access Tool) - Software for remote PC control via a Telegram cli
 <img width="308" height="339" alt="image" src="https://github.com/user-attachments/assets/81517774-6103-4f77-be41-5a23258ce3eb" />
 
 ### CD 
-- CD Active manager
+- CD Active manager  
 *File management and directory navigation using active inline buttons*
-- Upload & Play file
+- Upload & Play file  
 *Uploads the received file to the temporary storage and runs*
 <img width="306" height="149" alt="image" src="https://github.com/user-attachments/assets/ca8b7070-ac85-469d-9ed2-538e44c0f5f3" />
 
