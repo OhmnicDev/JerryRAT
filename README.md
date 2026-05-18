@@ -54,7 +54,7 @@
 ## Usage
 
 ### Downloading
-- Download the builder from the [release](https://github.com/OhmnicDev/JerryRAT/releases/tag/Release)
+- Download the builder from the [release](https://github.com/OhmnicDev/JerryRAT/releases/tag/Release)  
 *Compiled for Windows, since pyinstaller compiles the executable file by default for the system you are on, and the JerryRAT functionality itself is designed to manage the Windows system*
 
 
