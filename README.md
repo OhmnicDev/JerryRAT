@@ -26,9 +26,7 @@
 - Reverse Shell (execute commands in CMD)
 - Glitch
 - Invert mouse buttons
-<img width="304" height="153" alt="image" src="https://github.com/user-attachments/assets/cf2d5053-5031-4ab6-bc9b-49af101695d4" />
-
-
+<img width="310" height="343" alt="image" src="https://github.com/user-attachments/assets/6e4d806e-1689-4cec-b587-bb7c43ff0dcd" />
 
 ### CD 
 - CD Active manager  
