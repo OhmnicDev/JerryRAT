@@ -57,6 +57,14 @@
 - Download the builder from the [release](https://github.com/OhmnicDev/JerryRAT/releases/tag/Release)  
 *Compiled for Windows, since pyinstaller compiles the executable file by default for the system you are on, and the JerryRAT functionality itself is designed to manage the Windows system*
 
+### Getting configuration data
+- Open (BotFather)[t.me/BotFather], enter the /newbot command and create a bot following the instructions, then copy the token
+- Open (User info)[t.me/Userinfokbot] and copy your ID
+
+### Building
+- Launch builder.exe and enter the data that you received earlier following the instructions
+- Enjoy your JerryRAT!
+
 
 
 
