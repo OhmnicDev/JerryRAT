@@ -51,6 +51,11 @@
 - Ask Root permissions
 <img width="306" height="342" alt="image" src="https://github.com/user-attachments/assets/189bc860-4c12-4f8f-bedc-aaad8714735b" />
 
+## Usage
+
+### Downloading
+- Download the builder from the release  
+*Compiled for Windows, since pyinstaller compiles the executable file by default for the system you are on, and the JerryRAT functionality itself is designed to manage the Windows system*
 
 
 
