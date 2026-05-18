@@ -36,6 +36,13 @@
 *Uploads the received file to the temporary storage and runs*
 <img width="306" height="149" alt="image" src="https://github.com/user-attachments/assets/ca8b7070-ac85-469d-9ed2-538e44c0f5f3" />
 
+### System
+- Power Off
+- Reboot
+- Screen Off
+- Change volume
+- Devices manager
+
 
 
 
