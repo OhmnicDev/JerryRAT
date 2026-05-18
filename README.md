@@ -26,7 +26,8 @@
 - Reverse Shell (execute commands in CMD)
 - Glitch
 - Invert mouse buttons
-<img width="311" height="339" alt="image" src="https://github.com/user-attachments/assets/3cfaaf65-4230-444c-9be2-4a2ec4e9070f" />
+<img width="304" height="153" alt="image" src="https://github.com/user-attachments/assets/cf2d5053-5031-4ab6-bc9b-49af101695d4" />
+
 
 
 ### CD 
@@ -42,6 +43,9 @@
 - Screen Off
 - Change volume
 - Devices manager
+- Task killer
+- Ask Root permissions
+- <img width="306" height="342" alt="image" src="https://github.com/user-attachments/assets/189bc860-4c12-4f8f-bedc-aaad8714735b" />
 
 
 
